@@ -5,16 +5,10 @@ let resetBtn = document.getElementById('resetBtn');
 let lapBtn = document.getElementById('lapBtn');
 let lapsList = document.getElementById('lapsList');
 
-let msec = 0;
-let secs = 0;
-let mins = 0;
-let timerId = null;
-let lapCount = 1;
+let msec = 0, secs = 0, mins = 0, timerId = null, lapCount = 1;
 
 startBtn.addEventListener('click', function(){
-    if(timerId !== null){
-        clearInterval(timerId);
-    }
+    if(timerId !== null) clearInterval(timerId);
     timerId = setInterval(startTimer, 10);
 });
 
@@ -27,7 +21,7 @@ resetBtn.addEventListener('click', function(){
     timerDisplay.textContent = `00 : 00 : 00`;
     msec = secs = mins = 0;
     lapsList.innerHTML = '';
-    lapCount=1;
+    lapCount = 1;
 });
 
 lapBtn.addEventListener('click', function(){
