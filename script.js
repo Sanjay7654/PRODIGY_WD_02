@@ -27,7 +27,7 @@ resetBtn.addEventListener('click', function(){
     timerDisplay.textContent = `00 : 00 : 00`;
     msec = secs = mins = 0;
     lapsList.innerHTML = '';
-  
+    lapCount=1;
 });
 
 lapBtn.addEventListener('click', function(){
