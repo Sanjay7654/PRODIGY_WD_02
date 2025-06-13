@@ -14,11 +14,7 @@ Responsive design with modern CSS
 
 Colorful gradient theme
 
-# Demo:
-
-
 Getting Started:
-
 1. Clone the repository
 bash
 git clone https://github.com/your-username/stopwatch-app.git
@@ -27,7 +23,6 @@ cd stopwatch-app
 Just open the index.html file in your favorite browser.
 
 # File Structure:
-text
 stopwatch-app/
 ├── index.html
 ├── style.css
@@ -44,7 +39,6 @@ Reset: Click the Reset button to reset the timer and clear all laps.
 Lap: Click the Lap button to record the current time. Lap times will appear below the buttons and scroll as needed.
 
 # Customization:
-
 Colors & Layout: Edit style.css to change the color scheme or layout.
 
 Functionality: Enhance or modify the stopwatch logic in script.js.
