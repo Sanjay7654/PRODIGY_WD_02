@@ -15,7 +15,7 @@ Responsive design with modern CSS
 
 Colorful gradient theme
 
-Getting Started:
+# Getting Started:
 1. Clone the repository
 bash
 git clone https://github.com/your-username/stopwatch-app.git
