@@ -24,15 +24,12 @@ cd stopwatch-app
 Just open the index.html file in your favorite browser.
 
 # File Structure:
-stopwatch-app/
-
+<pre> '''stopwatch-app/
 ├── index.html
-
 ├── style.css
-
 ├── script.js
-
-└── README.md
+└── README.md'''
+  </pre>
 
 # Usage:
 Start: Click the Start button to begin timing.
