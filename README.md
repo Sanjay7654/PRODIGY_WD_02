@@ -25,9 +25,13 @@ Just open the index.html file in your favorite browser.
 
 # File Structure:
 stopwatch-app/
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 # Usage:
