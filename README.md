@@ -3,7 +3,7 @@ Stopwatch Web App
 A simple, colorful, and responsive stopwatch web application built with HTML, CSS, and JavaScript.
 It features Start, Stop, Reset, and Lap functionality, with a fixed stopwatch display and scrollable lap times.
 
-Features
+<a href="#your-heading-id">🔗</a>Features
 Start, Stop, and Reset the timer
 
 Lap functionality: record and display lap times
